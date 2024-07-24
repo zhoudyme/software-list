@@ -59,6 +59,7 @@
 - Translation : 提供翻译功能
 - Key Promoter X : 在本可以使用快捷键操作的地方提醒用快捷键操作
 - JRebel and XRebel : 实现热部署的插件
+  - [Jrebel License Server](https://www.jpy.wang/page/jrebel.html)
 
 #### 附录 2 Chrome 插件清单
 - [AdGuard ADBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) : 广告拦截扩展
